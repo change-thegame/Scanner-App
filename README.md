@@ -1,4 +1,4 @@
-# Scanner-App
+# Flatbed Scanner Application
 <br>
 
 **Flatbed Scanner Application for old scanners with lost drivers**
@@ -7,6 +7,9 @@
 Super simple. <br>
 Very Crude. <br>
 But It Works! 
+<br>
+<br>
+Just plug in your scanner and hit scan.
 <br>
 <br>
 Scanner must fall under the SANE list. Currently 2409 Devices <br>
