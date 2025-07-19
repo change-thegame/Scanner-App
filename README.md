@@ -9,7 +9,7 @@ Very Crude. <br>
 But It Works! 
 <br>
 <br>
-Just plug in your scanner and hit scan.
+Just plug in your scanner and hit scan
 <br>
 <br>
 Scanner must fall under the SANE list. Currently 2409 Devices <br>
@@ -21,7 +21,7 @@ Relies on the ScanImage command line tool
 <br>
 <br>
 Saved my scanner from the landfill! <br>
-Hopefully it does the same for you.
+Hopefully it does the same for you
 <br>
 <br>
 
